@@ -27,12 +27,3 @@ I used results of historical matches since the beginning of the championship (19
 
 I chose Logistic Regression in my model and got an accuracy of 57% on the training set and 55% accuracy on the test set. I also used the FIFA ranking as of April 2018 dataset and a dataset containing the fixture of the group stages of the tournament.
 
-## According to this model Brazil is likely to win this World Cup.
-
-## Areas of further Research/ Improvement
-
-1. Dataset - to improve dataset you could use FIFA, the game not the organisation, to assess the quality of each team player.
-
-2. A confusion matrix would be great to analyse which games the model got wrong.
-
-3. We could ensemble that is, we could try stacking more models together to improve the accuracy.
